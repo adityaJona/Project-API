@@ -9154,11 +9154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Metrodata\\Tugas MCC\\API\\Client\\Client.csproj",
+      "projectUniqueName": "C:\\Users\\ADITYA\\Documents\\GitHub\\Project-API\\API\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "D:\\Metrodata\\Tugas MCC\\API\\Client\\Client.csproj",
+      "projectPath": "C:\\Users\\ADITYA\\Documents\\GitHub\\Project-API\\API\\Client\\Client.csproj",
       "packagesPath": "C:\\Users\\ADITYA\\.nuget\\packages\\",
-      "outputPath": "D:\\Metrodata\\Tugas MCC\\API\\Client\\obj\\",
+      "outputPath": "C:\\Users\\ADITYA\\Documents\\GitHub\\Project-API\\API\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADITYA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9175,8 +9175,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Metrodata\\Tugas MCC\\API\\API\\API.csproj": {
-              "projectPath": "D:\\Metrodata\\Tugas MCC\\API\\API\\API.csproj"
+            "C:\\Users\\ADITYA\\Documents\\GitHub\\Project-API\\API\\API\\API.csproj": {
+              "projectPath": "C:\\Users\\ADITYA\\Documents\\GitHub\\Project-API\\API\\API\\API.csproj"
             }
           }
         }

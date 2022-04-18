@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Metrodata\\Tugas MCC\\API\\API\\API.csproj": {}
+    "C:\\Users\\ADITYA\\Documents\\GitHub\\Project-API\\API\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Metrodata\\Tugas MCC\\API\\API\\API.csproj": {
+    "C:\\Users\\ADITYA\\Documents\\GitHub\\Project-API\\API\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Metrodata\\Tugas MCC\\API\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\ADITYA\\Documents\\GitHub\\Project-API\\API\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Metrodata\\Tugas MCC\\API\\API\\API.csproj",
+        "projectPath": "C:\\Users\\ADITYA\\Documents\\GitHub\\Project-API\\API\\API\\API.csproj",
         "packagesPath": "C:\\Users\\ADITYA\\.nuget\\packages\\",
-        "outputPath": "D:\\Metrodata\\Tugas MCC\\API\\API\\obj\\",
+        "outputPath": "C:\\Users\\ADITYA\\Documents\\GitHub\\Project-API\\API\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADITYA\\AppData\\Roaming\\NuGet\\NuGet.Config",

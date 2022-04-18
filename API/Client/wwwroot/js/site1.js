@@ -296,7 +296,7 @@ function Login() {
 
 function Logout() {
     Swal.fire({
-        title: 'Do you want to logout?',
+        title: 'Do you want to logout??',
         showDenyButton: false,
         showCancelButton: true,
         confirmButtonText: 'LogOut',
